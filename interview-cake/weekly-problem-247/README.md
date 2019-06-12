@@ -4,7 +4,7 @@ Description: Delete a node from a singly-linked list, given *only* a variable po
 
 Example (python3): Given the input **b** below:
 ```python
-lass LinkedListNode(object):
+class LinkedListNode(object):
 
     def __init__(self, value):
         self.value = value
